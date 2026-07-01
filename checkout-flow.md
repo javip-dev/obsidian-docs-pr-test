@@ -11,12 +11,9 @@ The customer can review their cart, choose a payment method, and confirm the ord
 
 ## Proposed Change
 
- hello world test
+this is a change  
 
-
-![image](assets/test.png)
-
-
+![image](assets/test2.png)
  
 
 ## Screenshot Placeholder
