@@ -11,7 +11,7 @@ The customer can review their cart, choose a payment method, and confirm the ord
 
 ## Proposed Change
 
-Add one sentence here while recording the test video. hello world test
+ hello world test
 
 ## Screenshot Placeholder
 
