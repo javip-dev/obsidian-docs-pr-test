@@ -13,6 +13,12 @@ The customer can review their cart, choose a payment method, and confirm the ord
 
  hello world test
 
+
+![image](assets/test.png)
+
+
+ 
+
 ## Screenshot Placeholder
 
 Paste a screenshot below this paragraph in Obsidian. It should be saved into `docs/assets` automatically.
