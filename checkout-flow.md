@@ -10,10 +10,10 @@ This is a simple example page that a PM could edit.
 The customer can review their cart, choose a payment method, and confirm the order.
 
 ## Proposed Change
+this is a chnage
 
-this is a change  
 
-![image](assets/test2.png)
+![image](assets/test.png)
  
 
 ## Screenshot Placeholder
